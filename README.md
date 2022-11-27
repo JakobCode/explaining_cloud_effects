@@ -1,6 +1,6 @@
 ## Explaining the Effects of Clouds on Remote Sensing Scene Classification
 
-This repository comes a along with the paper <i>Explaining the Effects of Clouds on Remote Sensing Scene Classification</i> published in the <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</i> (<b><i>add link when online</i></b>). 
+This repository comes a along with the paper <a href="https://ieeexplore.ieee.org/abstract/document/9956865/" target="_blank" rel="noreferrer noopener">Explaining the Effects of Clouds on Remote Sensing Scene Classification</a> published in the <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</i>. 
 
 <img src="https://user-images.githubusercontent.com/77287533/196392412-fb0197af-b61c-4707-a757-52c7ad94ae8d.png" width=80% >
 
